@@ -1,0 +1,19 @@
+.bo{
+  text-align: center;
+  margin-top: 300px;
+}
+.but{
+  background-color: #ff8085;
+  padding: 10px 10px 10px 10px;
+
+}
+.te{
+  border-radius: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 20%
+}
+.lb{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
